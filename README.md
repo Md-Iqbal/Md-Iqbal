@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Md-Iqbal
-- 👀 I’m interested in Algorithm, Django web development
+- 👀 I’m interested in Algorithm, Django web development.
+- 🌱 I'm skilled at C, C++, Python, PostgreSQL, SQLite, MySQL, HTML, CSS, Bootstrap, Django, Django Rest Framework, Git, Windows OS, Linux based OS
 - 🌱 I’m currently doing my B.Sc at Software Engineering in Daffodil International University at Bangladesh.
 - 🌱 I’m currently learnging Algorithm
 - 💞️ I’m looking to collaborate on Django Web Development.
